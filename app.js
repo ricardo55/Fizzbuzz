@@ -1,3 +1,6 @@
+// Este archivo ya no sirve, por que refactorice el codigo con POO, solo lo dejara para muestra
+// de como se puede realizar de otra forma
+
 const fs = require("fs");
 
 // Part 1 Read json file ===========================
